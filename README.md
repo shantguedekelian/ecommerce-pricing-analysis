@@ -18,7 +18,7 @@ engineering, predictive modeling, and price point simulation.
 ## Files
 - `index.html` — full analysis rendered as a webpage
 - `pricing_analysis.ipynb` — Jupyter notebook with all code and explanations
-- `dataset.csv` — raw dataset used in the analysis
+- `ecommerce_dynamic_pricing_dataset.csv` — raw dataset used in the analysis
 
 ## Requirements
 pandas, numpy, matplotlib, seaborn, scikit-learn 1.5.2
